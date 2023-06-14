@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Decimo1Projeto_Jogo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Decimo1Projeto_Jogo_jar</output-path>
+    <root id="archive" name="Decimo1Projeto_Jogo.jar">
+      <element id="module-output" name="Decimo1Projeto_Jogo" />
+    </root>
+  </artifact>
+</component>
